@@ -57,7 +57,7 @@ class ana(QDialog):
 
                 # gönderici hesap bilgileri
                 mymail = "bugra.ozdemir5834@gmail.com"
-                password = "aecbrcgoretejsis"  # google uygulama için şifre veriyor !!
+                password = "your google app password"  # google uygulama için şifre veriyor !!
 
                 # kime gonderilecek
                 sentto = self.lineEdit_2.text()

@@ -56,7 +56,7 @@ class ana(QDialog):
                 content = "Subject: {0}\n\n{1}".format(subject, message)
 
                 # gönderici hesap bilgileri
-                mymail = "bugra.ozdemir5834@gmail.com"
+                mymail = "mail_adress"
                 password = "your google app password"  # google uygulama için şifre veriyor !!
 
                 # kime gonderilecek
